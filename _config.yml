@@ -1,16 +1,16 @@
 # Site settings
-title: A blog about lorem ipsum dolor sit amet
-description: A blog about lorem ipsum dolor sit amet
+title: Abhishek Kumar
+description: 
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
-username: Anon Developer
-user_description: Bicycle rights irony actually neutra typewriter lyft. Man bun taxidermy put a bird on it, umami yr ramps pop-up ugh bushwick chia lo-fi. Occupy bitters pour-over snackwave you probably haven't heard of them small batch. Cornhole mustache man bun letterpress echo park VHS.
+username: Abhishek Kumar
+user_description: I am a Computer Science undergrade student at Haldia Institute of Technology, currently in Final year. Currently, I am actively seeking a part-time software engineering role(Specialy Web Development) anywhere around the globe to add more value to my Resume. Peer Group, Work Quality and Growth Opportunities are the most important things I am looking for in a job.
 user_title: Software Developer
-email: anon@anon.com
-twitter_username: lorem_ipsum
-github_username:  lorem_ipsum
+email: kumargolu63@gmail.com
+twitter_username: https://twitter.com/kumargolu63?lang=en
+github_username:  https://github.com/abhishek63
 gplus_username:  lorem_ipsum
 
 # Google-analytics
